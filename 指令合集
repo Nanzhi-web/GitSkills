@@ -1,6 +1,10 @@
 指令合集
 
 本地操作：
+mkdir <filename> 创建版本库
+cd <filename> 进入版本库
+git init 设为可管理模式
+
 git status 查看状态
 git diff 查看修改
 上传
